@@ -32,7 +32,7 @@ export class TripNoteService {
       place: "tokyo, Japan",
       dateFrom: new Date('2024-07-05'),
       dateTo: new Date('2024-07-12'),
-      description: "Exploring Tokyo's culture",
+      description: "Exploriqqng Tokyo's culture",
       imageUrl: "assets/tokyo.jpg",
       rating: 5
     },
